@@ -2,7 +2,7 @@
 
 __USING EDA Exploratory Data Analysis with clusting with k numbers__
 
-___used to plot graphs the relationship between sex and grades of the two___
+___used to plot graphs the relationship between Gender's and grades of the two___
 
 ![2aeb9a33-191d-4c84-ad83-f269055ac410](https://user-images.githubusercontent.com/82219591/211383724-77c16f6d-bea2-428b-a415-efe0a1ef846d.png)
 
