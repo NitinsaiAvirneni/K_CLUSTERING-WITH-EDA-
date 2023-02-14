@@ -1,6 +1,6 @@
 ################### K_CLUSTERING-WITH-EDA#####################
 
-__USING EDA Exploratory Data Analysis with clusting with k numbers__
+__USING EDA Exploratory Data Analysis with clustering with k numbers__
 
 ___used to plot graphs the relationship between Gender's and grades of the two___
 
